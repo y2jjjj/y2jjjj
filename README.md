@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @y2jjjj
+- 👋 Hi, I’m @y2jjjj YUVRAJ KR.
 - 👀 I’m interested in AIML and WEBDEV
 - 🌱 I’m currently started doing CP via LEETCODE
 - 💞️ I’m looking to collaborate on GIT and Linkedin
